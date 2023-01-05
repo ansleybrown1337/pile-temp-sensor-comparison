@@ -1,119 +1,120 @@
-﻿date,sensor,group,temp,pile-type,owner
-11/11/2022,6,A,34.8,vented,Western Sugar
-11/11/2022,2,A,35.3,vented,CSU
-11/15/2022,6,A,34.8,vented,Western Sugar
-11/15/2022,2,A,35,vented,CSU
-11/20/2022,6,A,34.4,vented,Western Sugar
-11/20/2022,2,A,34.6,vented,CSU
-11/25/2022,6,A,34.2,vented,Western Sugar
-11/25/2022,2,A,32.8,vented,CSU
-12/2/2022,6,A,35,vented,Western Sugar
-12/2/2022,2,A,35.3,vented,CSU
-12/10/2022,6,A,35,vented,Western Sugar
-12/10/2022,2,A,35.3,vented,CSU
-12/12/2022,6,A,36.6,vented,Western Sugar
-12/12/2022,2,A,37.1,vented,CSU
-11/28/2022,6,A,34,vented,Western Sugar
-11/28/2022,2,A,33.6,vented,CSU
-11/11/2022,2,B,35.6,vented,Western Sugar
-11/11/2022,3,B,33.8,vented,CSU
-11/15/2022,2,B,33.6,vented,Western Sugar
-11/15/2022,3,B,33.4,vented,CSU
-11/20/2022,2,B,32,vented,Western Sugar
-11/20/2022,3,B,31.5,vented,CSU
-11/25/2022,2,B,31.6,vented,Western Sugar
-11/25/2022,3,B,30.5,vented,CSU
-12/2/2022,2,B,34.6,vented,Western Sugar
-12/2/2022,3,B,33.8,vented,CSU
-12/10/2022,2,B,34.8,vented,Western Sugar
-12/10/2022,3,B,32.8,vented,CSU
-12/12/2022,2,B,31.2,vented,Western Sugar
-12/12/2022,3,B,31.3,vented,CSU
-11/28/2022,2,B,32.2,vented,Western Sugar
-11/28/2022,3,B,31.4,vented,CSU
-11/11/2022,9,C,36,vented,Western Sugar
-11/11/2022,4,C,36.2,vented,CSU
-11/15/2022,9,C,34.8,vented,Western Sugar
-11/15/2022,4,C,35.1,vented,CSU
-11/20/2022,9,C,34.6,vented,Western Sugar
-11/20/2022,4,C,34.1,vented,CSU
-11/25/2022,9,C,34.6,vented,Western Sugar
-11/25/2022,4,C,33.6,vented,CSU
-12/2/2022,9,C,35,vented,Western Sugar
-12/2/2022,4,C,32.7,vented,CSU
-12/10/2022,9,C,35.4,vented,Western Sugar
-12/10/2022,4,C,30.9,vented,CSU
-12/12/2022,9,C,32.4,vented,Western Sugar
-12/12/2022,4,C,31,vented,CSU
-11/28/2022,9,C,35.4,vented,Western Sugar
-11/28/2022,4,C,33.6,vented,CSU
-11/11/2022,5,D,35.8,vented,Western Sugar
-11/11/2022,5,D,30.2,vented,CSU
-11/15/2022,5,D,32.8,vented,Western Sugar
-11/15/2022,5,D,30.2,vented,CSU
-11/20/2022,5,D,33.4,vented,Western Sugar
-11/20/2022,5,D,31.8,vented,CSU
-11/25/2022,5,D,32.4,vented,Western Sugar
-11/25/2022,5,D,29.9,vented,CSU
-12/2/2022,5,D,33.4,vented,Western Sugar
-12/2/2022,5,D,30.3,vented,CSU
-12/10/2022,5,D,32,vented,Western Sugar
-12/10/2022,5,D,29.8,vented,CSU
-12/12/2022,5,D,30.8,vented,Western Sugar
-12/12/2022,5,D,29.1,vented,CSU
-11/28/2022,5,D,34.6,vented,Western Sugar
-11/28/2022,5,D,31.2,vented,CSU
-11/8/2022,6,E,56,non-vented,Western Sugar
-11/8/2022,6,E,56.2,non-vented,CSU
-11/11/2022,6,E,42,non-vented,Western Sugar
-11/11/2022,6,E,52.5,non-vented,CSU
-11/15/2022,6,E,50,non-vented,Western Sugar
-11/15/2022,6,E,48.3,non-vented,CSU
-11/20/2022,6,E,41,non-vented,Western Sugar
-11/20/2022,6,E,42.1,non-vented,CSU
-11/25/2022,6,E,40,non-vented,Western Sugar
-11/25/2022,6,E,40.5,non-vented,CSU
-11/28/2022,6,E,39,non-vented,Western Sugar
-11/28/2022,6,E,40.7,non-vented,CSU
-12/5/2022,6,E,38,non-vented,Western Sugar
-12/5/2022,6,E,39.9,non-vented,CSU
-12/10/2022,6,E,40,non-vented,Western Sugar
-12/10/2022,6,E,38.1,non-vented,CSU
-12/12/2022,6,E,40,non-vented,Western Sugar
-12/12/2022,6,E,39.8,non-vented,CSU
-11/8/2022,7,F,48,non-vented,Western Sugar
-11/8/2022,7,F,47.5,non-vented,CSU
-11/11/2022,7,F,36,non-vented,Western Sugar
-11/11/2022,7,F,37.1,non-vented,CSU
-11/15/2022,7,F,29,non-vented,Western Sugar
-11/15/2022,7,F,32.5,non-vented,CSU
-11/20/2022,7,F,30,non-vented,Western Sugar
-11/20/2022,7,F,29.1,non-vented,CSU
-11/25/2022,7,F,36,non-vented,Western Sugar
-11/25/2022,7,F,32.3,non-vented,CSU
-11/28/2022,7,F,34,non-vented,Western Sugar
-11/28/2022,7,F,35.8,non-vented,CSU
-12/5/2022,7,F,36,non-vented,Western Sugar
-12/5/2022,7,F,36.6,non-vented,CSU
-12/10/2022,7,F,34,non-vented,Western Sugar
-12/10/2022,7,F,36,non-vented,CSU
-12/12/2022,7,F,34,non-vented,Western Sugar
-12/12/2022,7,F,35.7,non-vented,CSU
-11/8/2022,8,G,54,non-vented,Western Sugar
-11/8/2022,8,G,56,non-vented,CSU
-11/11/2022,8,G,42,non-vented,Western Sugar
-11/11/2022,8,G,53,non-vented,CSU
-11/15/2022,8,G,43,non-vented,Western Sugar
-11/15/2022,8,G,41.2,non-vented,CSU
-11/20/2022,8,G,39,non-vented,Western Sugar
-11/20/2022,8,G,42.6,non-vented,CSU
-11/25/2022,8,G,42,non-vented,Western Sugar
-11/25/2022,8,G,42.8,non-vented,CSU
-11/28/2022,8,G,42,non-vented,Western Sugar
-11/28/2022,8,G,40.3,non-vented,CSU
-12/5/2022,8,G,34,non-vented,Western Sugar
-12/5/2022,8,G,31.4,non-vented,CSU
-12/10/2022,8,G,36,non-vented,Western Sugar
-12/10/2022,8,G,39.5,non-vented,CSU
-12/12/2022,8,G,30,non-vented,Western Sugar
-12/12/2022,8,G,29.5,non-vented,CSU
+﻿date,sensor,group,temp,pile-type,owner,location
+11/11/2022,6,A,34.8,vented,Western Sugar,Fort Morgan
+11/11/2022,2,A,35.3,vented,CSU,Fort Morgan
+11/15/2022,6,A,34.8,vented,Western Sugar,Fort Morgan
+11/15/2022,2,A,35,vented,CSU,Fort Morgan
+11/20/2022,6,A,34.4,vented,Western Sugar,Fort Morgan
+11/20/2022,2,A,34.6,vented,CSU,Fort Morgan
+11/25/2022,6,A,34.2,vented,Western Sugar,Fort Morgan
+11/25/2022,2,A,32.8,vented,CSU,Fort Morgan
+12/2/2022,6,A,35,vented,Western Sugar,Fort Morgan
+12/2/2022,2,A,35.3,vented,CSU,Fort Morgan
+12/10/2022,6,A,35,vented,Western Sugar,Fort Morgan
+12/10/2022,2,A,35.3,vented,CSU,Fort Morgan
+12/12/2022,6,A,36.6,vented,Western Sugar,Fort Morgan
+12/12/2022,2,A,37.1,vented,CSU,Fort Morgan
+11/28/2022,6,A,34,vented,Western Sugar,Fort Morgan
+11/28/2022,2,A,33.6,vented,CSU,Fort Morgan
+11/11/2022,2,B,35.6,vented,Western Sugar,Fort Morgan
+11/11/2022,3,B,33.8,vented,CSU,Fort Morgan
+11/15/2022,2,B,33.6,vented,Western Sugar,Fort Morgan
+11/15/2022,3,B,33.4,vented,CSU,Fort Morgan
+11/20/2022,2,B,32,vented,Western Sugar,Fort Morgan
+11/20/2022,3,B,31.5,vented,CSU,Fort Morgan
+11/25/2022,2,B,31.6,vented,Western Sugar,Fort Morgan
+11/25/2022,3,B,30.5,vented,CSU,Fort Morgan
+12/2/2022,2,B,34.6,vented,Western Sugar,Fort Morgan
+12/2/2022,3,B,33.8,vented,CSU,Fort Morgan
+12/10/2022,2,B,34.8,vented,Western Sugar,Fort Morgan
+12/10/2022,3,B,32.8,vented,CSU,Fort Morgan
+12/12/2022,2,B,31.2,vented,Western Sugar,Fort Morgan
+12/12/2022,3,B,31.3,vented,CSU,Fort Morgan
+11/28/2022,2,B,32.2,vented,Western Sugar,Fort Morgan
+11/28/2022,3,B,31.4,vented,CSU,Fort Morgan
+11/11/2022,9,C,36,vented,Western Sugar,Fort Morgan
+11/11/2022,4,C,36.2,vented,CSU,Fort Morgan
+11/15/2022,9,C,34.8,vented,Western Sugar,Fort Morgan
+11/15/2022,4,C,35.1,vented,CSU,Fort Morgan
+11/20/2022,9,C,34.6,vented,Western Sugar,Fort Morgan
+11/20/2022,4,C,34.1,vented,CSU,Fort Morgan
+11/25/2022,9,C,34.6,vented,Western Sugar,Fort Morgan
+11/25/2022,4,C,33.6,vented,CSU,Fort Morgan
+12/2/2022,9,C,35,vented,Western Sugar,Fort Morgan
+12/2/2022,4,C,32.7,vented,CSU,Fort Morgan
+12/10/2022,9,C,35.4,vented,Western Sugar,Fort Morgan
+12/10/2022,4,C,30.9,vented,CSU,Fort Morgan
+12/12/2022,9,C,32.4,vented,Western Sugar,Fort Morgan
+12/12/2022,4,C,31,vented,CSU,Fort Morgan
+11/28/2022,9,C,35.4,vented,Western Sugar,Fort Morgan
+11/28/2022,4,C,33.6,vented,CSU,Fort Morgan
+11/11/2022,5,D,35.8,vented,Western Sugar,Fort Morgan
+11/11/2022,5,D,30.2,vented,CSU,Fort Morgan
+11/15/2022,5,D,32.8,vented,Western Sugar,Fort Morgan
+11/15/2022,5,D,30.2,vented,CSU,Fort Morgan
+11/20/2022,5,D,33.4,vented,Western Sugar,Fort Morgan
+11/20/2022,5,D,31.8,vented,CSU,Fort Morgan
+11/25/2022,5,D,32.4,vented,Western Sugar,Fort Morgan
+11/25/2022,5,D,29.9,vented,CSU,Fort Morgan
+12/2/2022,5,D,33.4,vented,Western Sugar,Fort Morgan
+12/2/2022,5,D,30.3,vented,CSU,Fort Morgan
+12/10/2022,5,D,32,vented,Western Sugar,Fort Morgan
+12/10/2022,5,D,29.8,vented,CSU,Fort Morgan
+12/12/2022,5,D,30.8,vented,Western Sugar,Fort Morgan
+12/12/2022,5,D,29.1,vented,CSU,Fort Morgan
+11/28/2022,5,D,34.6,vented,Western Sugar,Fort Morgan
+11/28/2022,5,D,31.2,vented,CSU,Fort Morgan
+11/8/2022,6,E,56,non-vented,Western Sugar,Fort Morgan
+11/8/2022,6,E,56.2,non-vented,CSU,Fort Morgan
+11/11/2022,6,E,42,non-vented,Western Sugar,Fort Morgan
+11/11/2022,6,E,52.5,non-vented,CSU,Fort Morgan
+11/15/2022,6,E,50,non-vented,Western Sugar,Fort Morgan
+11/15/2022,6,E,48.3,non-vented,CSU,Fort Morgan
+11/20/2022,6,E,41,non-vented,Western Sugar,Fort Morgan
+11/20/2022,6,E,42.1,non-vented,CSU,Fort Morgan
+11/25/2022,6,E,40,non-vented,Western Sugar,Fort Morgan
+11/25/2022,6,E,40.5,non-vented,CSU,Fort Morgan
+11/28/2022,6,E,39,non-vented,Western Sugar,Fort Morgan
+11/28/2022,6,E,40.7,non-vented,CSU,Fort Morgan
+12/5/2022,6,E,38,non-vented,Western Sugar,Fort Morgan
+12/5/2022,6,E,39.9,non-vented,CSU,Fort Morgan
+12/10/2022,6,E,40,non-vented,Western Sugar,Fort Morgan
+12/10/2022,6,E,38.1,non-vented,CSU,Fort Morgan
+12/12/2022,6,E,40,non-vented,Western Sugar,Fort Morgan
+12/12/2022,6,E,39.8,non-vented,CSU,Fort Morgan
+11/8/2022,7,F,48,non-vented,Western Sugar,Fort Morgan
+11/8/2022,7,F,47.5,non-vented,CSU,Fort Morgan
+11/11/2022,7,F,36,non-vented,Western Sugar,Fort Morgan
+11/11/2022,7,F,37.1,non-vented,CSU,Fort Morgan
+11/15/2022,7,F,29,non-vented,Western Sugar,Fort Morgan
+11/15/2022,7,F,32.5,non-vented,CSU,Fort Morgan
+11/20/2022,7,F,30,non-vented,Western Sugar,Fort Morgan
+11/20/2022,7,F,29.1,non-vented,CSU,Fort Morgan
+11/25/2022,7,F,36,non-vented,Western Sugar,Fort Morgan
+11/25/2022,7,F,32.3,non-vented,CSU,Fort Morgan
+11/28/2022,7,F,34,non-vented,Western Sugar,Fort Morgan
+11/28/2022,7,F,35.8,non-vented,CSU,Fort Morgan
+12/5/2022,7,F,36,non-vented,Western Sugar,Fort Morgan
+12/5/2022,7,F,36.6,non-vented,CSU,Fort Morgan
+12/10/2022,7,F,34,non-vented,Western Sugar,Fort Morgan
+12/10/2022,7,F,36,non-vented,CSU,Fort Morgan
+12/12/2022,7,F,34,non-vented,Western Sugar,Fort Morgan
+12/12/2022,7,F,35.7,non-vented,CSU,Fort Morgan
+11/8/2022,8,G,54,non-vented,Western Sugar,Fort Morgan
+11/8/2022,8,G,56,non-vented,CSU,Fort Morgan
+11/11/2022,8,G,42,non-vented,Western Sugar,Fort Morgan
+11/11/2022,8,G,53,non-vented,CSU,Fort Morgan
+11/15/2022,8,G,43,non-vented,Western Sugar,Fort Morgan
+11/15/2022,8,G,41.2,non-vented,CSU,Fort Morgan
+11/20/2022,8,G,39,non-vented,Western Sugar,Fort Morgan
+11/20/2022,8,G,42.6,non-vented,CSU,Fort Morgan
+11/25/2022,8,G,42,non-vented,Western Sugar,Fort Morgan
+11/25/2022,8,G,42.8,non-vented,CSU,Fort Morgan
+11/28/2022,8,G,42,non-vented,Western Sugar,Fort Morgan
+11/28/2022,8,G,40.3,non-vented,CSU,Fort Morgan
+12/5/2022,8,G,34,non-vented,Western Sugar,Fort Morgan
+12/5/2022,8,G,31.4,non-vented,CSU,Fort Morgan
+12/10/2022,8,G,36,non-vented,Western Sugar,Fort Morgan
+12/10/2022,8,G,39.5,non-vented,CSU,Fort Morgan
+12/12/2022,8,G,30,non-vented,Western Sugar,Fort Morgan
+12/12/2022,8,G,29.5,non-vented,CSU,Fort Morgan
+,,,,,,
