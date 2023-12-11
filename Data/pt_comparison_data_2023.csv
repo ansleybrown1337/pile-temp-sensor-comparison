@@ -1,0 +1,63 @@
+﻿date,sensor,group,temp,pile-type,owner,location,notes
+11/17/2023,15,A,38,non-vented,Western Sugar,Fort Morgan,Stewart Norrish
+11/21/2023,15,A,32,non-vented,Western Sugar,Fort Morgan,Stewart Norrish
+11/28/2023,15,A,26,non-vented,Western Sugar,Fort Morgan,Stewart Norrish
+11/30/2023,15,A,26,non-vented,Western Sugar,Fort Morgan,Stewart Norrish
+12/5/2023,15,A,26,non-vented,Western Sugar,Fort Morgan,Stewart Norrish
+12/8/2023,15,A,36,non-vented,Western Sugar,Fort Morgan,Stewart Norrish
+11/17/2023,15,A,39,non-vented,CSU,Fort Morgan,Stewart Norrish
+11/21/2023,15,A,36,non-vented,CSU,Fort Morgan,Stewart Norrish
+11/28/2023,15,A,27.6,non-vented,CSU,Fort Morgan,Stewart Norrish
+11/30/2023,15,A,27.4,non-vented,CSU,Fort Morgan,Stewart Norrish
+12/5/2023,15,A,27.75,non-vented,CSU,Fort Morgan,Stewart Norrish
+12/8/2023,15,A,36.34,non-vented,CSU,Fort Morgan,Stewart Norrish
+11/13/2023,29,B,42,non-vented,Western Sugar,Krauss,Stewart Norrish
+11/21/2023,29,B,42,non-vented,Western Sugar,Krauss,Stewart Norrish
+11/28/2023,29,B,44,non-vented,Western Sugar,Krauss,Stewart Norrish
+11/30/2023,29,B,42,non-vented,Western Sugar,Krauss,Stewart Norrish
+12/5/2023,29,B,40,non-vented,Western Sugar,Krauss,Stewart Norrish
+12/8/2023,29,B,40,non-vented,Western Sugar,Krauss,Stewart Norrish
+11/13/2023,29,B,45,non-vented,CSU,Krauss,Stewart Norrish
+11/21/2023,29,B,46,non-vented,CSU,Krauss,Stewart Norrish
+11/28/2023,29,B,43.47,non-vented,CSU,Krauss,Stewart Norrish
+11/30/2023,29,B,42.33,non-vented,CSU,Krauss,Stewart Norrish
+12/5/2023,29,B,37.29,non-vented,CSU,Krauss,Stewart Norrish
+12/8/2023,29,B,38.64,non-vented,CSU,Krauss,Stewart Norrish
+11/6/2023,10,C,54,non-vented,CSU,Greeley,Mike Otto
+11/8/2023,10,C,53.6,non-vented,CSU,Greeley,Mike Otto
+11/13/2023,10,C,35.9,non-vented,CSU,Greeley,Mike Otto
+11/17/2023,10,C,36.5,non-vented,CSU,Greeley,Mike Otto
+11/21/2023,10,C,38.6,non-vented,CSU,Greeley,Mike Otto
+11/27/2023,10,C,36.1,non-vented,CSU,Greeley,Mike Otto
+11/29/2023,10,C,36.7,non-vented,CSU,Greeley,Mike Otto
+12/4/2023,10,C,29.9,non-vented,Western Sugar,Greeley,Mike Otto
+12/7/2023,10,C,33.1,non-vented,Western Sugar,Greeley,Mike Otto
+11/6/2023,10,C,56,non-vented,Western Sugar,Greeley,Mike Otto
+11/8/2023,10,C,55,non-vented,Western Sugar,Greeley,Mike Otto
+11/13/2023,10,C,40,non-vented,Western Sugar,Greeley,Mike Otto
+11/17/2023,10,C,39,non-vented,Western Sugar,Greeley,Mike Otto
+11/21/2023,10,C,40,non-vented,Western Sugar,Greeley,Mike Otto
+11/27/2023,10,C,40,non-vented,Western Sugar,Greeley,Mike Otto
+11/29/2023,10,C,39,non-vented,Western Sugar,Greeley,Mike Otto
+12/4/2023,10,C,32,non-vented,Western Sugar,Greeley,Mike Otto
+12/7/2023,10,C,37,non-vented,Western Sugar,Greeley,Mike Otto
+11/6/2023,16,D,55,non-vented,CSU,Greeley,Mike Otto
+11/8/2023,16,D,54.2,non-vented,CSU,Greeley,Mike Otto
+11/13/2023,16,D,51.1,non-vented,CSU,Greeley,Mike Otto
+11/17/2023,16,D,49.1,non-vented,CSU,Greeley,Mike Otto
+11/21/2023,16,D,39.9,non-vented,CSU,Greeley,Mike Otto
+11/27/2023,16,D,45.8,non-vented,CSU,Greeley,Mike Otto
+11/30/2023,16,D,45.9,non-vented,CSU,Greeley,Mike Otto; Moved to pile 1 at noon; changed date to 30th so data merge well
+11/29/2023,16,D,34,non-vented,CSU,Greeley,Mike Otto; Moved to pile 1 at noon
+12/4/2023,16,D,32.5,non-vented,CSU,Greeley,Mike Otto
+12/7/2023,16,D,31.9,non-vented,CSU,Greeley,Mike Otto
+11/6/2023,16,D,56,non-vented,Western Sugar,Greeley,Mike Otto
+11/8/2023,16,D,55,non-vented,Western Sugar,Greeley,Mike Otto
+11/13/2023,16,D,53,non-vented,Western Sugar,Greeley,Mike Otto
+11/17/2023,16,D,50,non-vented,Western Sugar,Greeley,Mike Otto
+11/21/2023,16,D,42,non-vented,Western Sugar,Greeley,Mike Otto
+11/27/2023,16,D,49,non-vented,Western Sugar,Greeley,Mike Otto
+11/30/2023,16,D,48,non-vented,Western Sugar,Greeley,Mike Otto; Moved to pile 1 at noon; changed date to 30th so data merge well
+11/29/2023,16,D,34,non-vented,Western Sugar,Greeley,Mike Otto; Moved to pile 1 at noon
+12/4/2023,16,D,34,non-vented,Western Sugar,Greeley,Mike Otto
+12/7/2023,16,D,32,non-vented,Western Sugar,Greeley,Mike Otto
